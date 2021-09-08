@@ -1,5 +1,5 @@
 import json
-from BertSQL.db_engine import DBEngine
+from SQLNet.db_engine import DBEngine
 import re
 import numpy as np
 
